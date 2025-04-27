@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dslaa/Documents/GitHub/Insurance%20Premium/Insurance/mlruns/303855726081277688/7eea7c8bd39b4525acbec0f71345ecb3/artifacts
+end_time: 1745339994038
+entry_point_name: ''
+experiment_id: '303855726081277688'
+lifecycle_stage: active
+run_id: 7eea7c8bd39b4525acbec0f71345ecb3
+run_name: Ground_Truth_Evaluation
+run_uuid: 7eea7c8bd39b4525acbec0f71345ecb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745339993869
+status: 3
+tags: []
+user_id: dslaa
