@@ -15,7 +15,7 @@ past_consultations = st.number_input("Past Consultations", min_value=0, step=1)
 num_of_steps = st.number_input("Number of Steps", min_value=0, step=1)
 Hospital_expenditure = st.number_input("Hospital Expenditure", min_value=0.0, step=0.1)
 NUmber_of_past_hospitalizations = st.number_input("Number of Past Hospitalizations", min_value=0, step=1)
-Anual_Salary = st.number_input("Annual Salary", min_value=0.0, step=0.1)
+Anual_Salary = st.number_input("Annual Salary", min_value=0.1, step=0.1)
 
 sex = st.selectbox("Sex", ['male', 'female'])
 smoker = st.selectbox("Smoker", ['yes', 'no'])
